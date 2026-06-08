@@ -1,2 +1,2 @@
 # Projeto-FrontEnd
-Novo projeto iniciado na aula do dia 08/06
+"Novo" projeto iniciado na aula dia 08/06
