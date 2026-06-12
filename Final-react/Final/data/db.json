@@ -1,1 +1,32 @@
-{"objects":[]}
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Giovanna",
+      "email": "giovanna@gmail.com",
+      "password": "123"
+    }
+  ],
+
+  "motos": [
+    {
+      "id": "1",
+      "marca": "Honda",
+      "modelo": "CB 500X",
+      "cilindrada": "500cc",
+      "preco": 30000,
+      "imagem": "https://www.honda.com.br/motos/cb500x/galeria/galeria-1.jpg"
+    }
+  ],
+
+  "Veiculos": [
+    {
+      "id": "1",
+      "marca": "Honda",
+      "modelo": "CB 500X",
+      "cilindrada": "500cc",
+      "preco": 30000,
+      "imagem": "https://www.honda.com.br/motos/cb500x/galeria/galeria-1.jpg"
+    }
+  ]
+}

@@ -1,6 +1,4 @@
-import React from 'react'
-
-const Motos = () => {
+export const Motos = () => {
   return (
     <div>
         <h1>Motos</h1>
@@ -8,4 +6,3 @@ const Motos = () => {
   )
 }
 
-export default Motos

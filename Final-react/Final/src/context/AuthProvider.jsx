@@ -6,7 +6,7 @@ export function AuthProvider({ children }) {
     const [user, setUser] = useState(()=> JSON.parse(localStorage.getItem("user")) || null);
 
     async function login(email, password){
-        const {data} = await api.post("/user", 
+        const {data} = await api.post("/users", 
             {params:{email},
         });
         if(data.length === 0 || data[0].password !== password){
